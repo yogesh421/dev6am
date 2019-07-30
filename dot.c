@@ -1,11 +1,11 @@
 {
 	void main ();
 
-	void main SUB();
+	void main ADD();
 
 	{ a=9;
 		b=3
 	}
 
 
-	a-b}
+	a+b}
